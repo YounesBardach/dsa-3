@@ -264,6 +264,4 @@ let hashMapOne = hashMapFactory();
 // console.log(hashMapOne.values());
 // console.log(hashMapOne.entries());
 
-// lsss
-
 
